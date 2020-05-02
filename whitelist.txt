@@ -17,3 +17,4 @@
 @@||capitalone.com^
 @@||mi.capitalone.com^$important
 @@||plex.tv^
+@@||goto.walmart.com^
