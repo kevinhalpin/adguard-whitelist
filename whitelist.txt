@@ -20,3 +20,7 @@
 @@||goto.walmart.com^
 @@||mytotalconnectcomfort.com^
 @@||honeywell.com^
+@@||flowdock.com^
+@@||flowdock.com^
+@@||f4tech.com^
+@@||rallydev.com^
