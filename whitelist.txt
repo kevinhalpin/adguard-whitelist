@@ -1,6 +1,8 @@
 @@||scribe.logs.roku.com
 @@||sonos.com^
 @@||khalpin11.win^
+@@||khalpin.com^
+@@||halpin.me^
 @@||rally.dev^
 @@||f4tech.com^
 @@||tvinteractive.tv^
