@@ -1,0 +1,9 @@
+! LG webOS TV tracking: ads, ACR (Live Plus) fingerprinting, and viewing telemetry.
+! Leaves app store/login (lgtvsdp, nextlgsdp), connectivity check (lgtvonline) and firmware updates (snu.lge.com) working.
+||lgsmartad.com^
+||ngfts.lge.com^
+||aic-ngfts.lge.com^
+||aic-img-ngfts.lge.com^
+||ngfts.tv.wiselg.com^
+||aic.tv.wiselg.com^
+||alphonso.tv^
